@@ -1,0 +1,9 @@
+@media screen and (max-width:1660px){
+    .header{
+        display: none;
+    }
+    .nav_socail{
+        display: none;
+    }
+
+}
